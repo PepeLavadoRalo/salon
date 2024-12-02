@@ -93,3 +93,6 @@ psql --username=freecodecamp --dbname=salon -c "SELECT examples.txt salon.sh FRO
 ./salon.sh
 ./salon.sh
 ./salon.sh
+git config --global user.name "PepeLavadoRalo"
+git init
+git add .
